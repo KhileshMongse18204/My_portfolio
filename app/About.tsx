@@ -13,7 +13,7 @@ import { useOnScreen } from "./hooks/useOnScreen";
 import { cn } from "@/lib/utils";
 import SocialMedia from "./components/SocialMedia";
 
-import selfieImg from "../public/img/My_image.jpg";
+import selfieImg from "../public/img/Khilesh_image.png";
 import githubBadge from "../public/img/social_media/github-badge.svg";
 import linkedinBadge from "../public/img/social_media/linkedin-badge.svg";
 import mailBadge from "../public/img/social_media/mail-badge.svg";
