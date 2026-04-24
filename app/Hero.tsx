@@ -61,7 +61,7 @@ function Hero({ parallaxRef }: Props) {
       {/* Barre de navigation */}
       <NavigationBar speed={-2} parallaxRef={parallaxRef} />
 
-      <LangSwitch speed={-2.2} />
+      <LangSwitch/>
       {/* <DarkSwitch speed={-2.7} /> */}
 
       {/* Hi */}
