@@ -3,7 +3,7 @@
  * @type Page
  */
 
-import { ParallaxLayer } from "@react-spring/parallax";
+import { ParallaxLayer } from "@react-spring/parallax"; 
 import Image from "next/image";
 import Timeline from "./components/Timeline";
 import "./style/about.css";
