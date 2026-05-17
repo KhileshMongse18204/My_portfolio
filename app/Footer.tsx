@@ -84,7 +84,7 @@ function Footer() {
           {/* Media Mail */}
           <FooterMedia
             name={texts.footer.mail}
-            href="mailto:raserarthur71@gmail.com"
+            href="mongasekhilesh@gmail.com"
           />
         </div>
       </div>
