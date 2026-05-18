@@ -120,7 +120,7 @@ export default function SocialMediaBar({ speed }: Props) {
           <SocialMedia
             svgSrc={githubBadge}
             num="1"
-            href="https://github.com/KHILESHMONGSE/"
+            href="https://github.com/KhileshMongse18204"
             alt={texts.hero.social.altGit}
           />
 

@@ -28,7 +28,7 @@ const textsEn = {
     seeCV: "Click to view my CV",
     timeline: {
       ensimag: {
-        name: "Graduate",
+        name: "Bachelor of Technology",
         desc: "Computer Engineering",
         date: "2022 - 2026",
       },
@@ -38,14 +38,14 @@ const textsEn = {
         date: "2024",
       },
       upc: {
-        name: "Polytechnic University of Catalonia",
-        desc: "University exchange / Courses in English",
+        name: "DCSPLM",
+        desc: "WordPress Devloper / Intern",
         date: "2024 - 2025",
       },
       sopra: {
-        name: "Sopra Steria",
-        desc: "Internship / SAP Development / Artificial Intelligence",
-        date: "2025",
+        name: "Elixir Strategic Management Pvt. Ltd.",
+        desc: "Software Devloper Intern",
+        date: "2025 - 2026",
       },
     },
   },
