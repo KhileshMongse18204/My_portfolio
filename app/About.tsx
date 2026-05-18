@@ -85,7 +85,7 @@ function About() {
           </div>
 
           {/* Bouton qui fait télécharger le CV */}
-          <Link href="/CV_RASERA_Arthur_FR.pdf" target="_blank">
+          <Link href="/Khilesh_Mongse_Resume.pdf" target="_blank">
             <Button
               ref={cvRef}
               text={texts.about.seeCV}
