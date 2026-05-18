@@ -22,7 +22,7 @@ const metadataInfos: Metadata = {
     "C++",
     "software engineer",
   ],
-  authors: [{ name: "Arthur", url: "https://github.com/KHILESHMONGSE/" }],
+  authors: [{ name: "Arthur", url: "https://github.com/KhileshMongse18204/" }],
   creator: "Arthur",
   publisher: "Arthur",
   openGraph: {
@@ -45,7 +45,7 @@ const metadataInfos: Metadata = {
   icons: {
     icon: "favicon.png", //TODO etre sur licon marche
   },
-  metadataBase: new URL("https://raseraa0.github.io"),
+  metadataBase: new URL("https://github.com/KhileshMongse18204"),
 };
 
 export default metadataInfos;

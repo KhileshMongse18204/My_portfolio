@@ -72,7 +72,7 @@ function Footer() {
           {/* Media Github */}
           <FooterMedia
             name={texts.footer.git}
-            href="https://github.com/KHILESHMONGSE/"
+            href="https://github.com/KhileshMongse18204/"
           />
 
           {/* Media Linkedin */}
