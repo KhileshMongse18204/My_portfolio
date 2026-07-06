@@ -78,13 +78,13 @@ function Footer() {
           {/* Media Linkedin */}
           <FooterMedia
             name={texts.footer.linkedin}
-            href="https://www.linkedin.com/in/khilesh-mongse-1040a42b5/"
+            href="https://www.linkedin.com/in/khilesh-mongse-498483420/"
           />
 
           {/* Media Mail */}
           <FooterMedia
             name={texts.footer.mail}
-            href="mongasekhilesh@gmail.com"
+            href="mongsekhilesh@gmail.com"
           />
         </div>
       </div>

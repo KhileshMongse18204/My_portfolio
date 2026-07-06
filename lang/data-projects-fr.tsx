@@ -15,7 +15,7 @@ const projects = [
     description:
       "Génère une image composée d’une mosaïque d’images données, ici des pochettes d’albums de musique. Les pochettes sont triées par couleur et arrangées dans un ordre spécifique pour produire le résultat final.",
     image_path: wallpaperGeneratorImg,
-    link: "https://github.com/Raseraa0/Wallpaper",
+    link: "https://github.com/KhileshMongse18204",
     color: "#c2410c",
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     description:
       "Implémentation d’un réseau de neurones sans utiliser de bibliothèques d’IA existantes. Le but est de suivre les mêmes principes que Keras avec TensorFlow en Python, à l’aide de différentes couches facilement manipulables.",
     image_path: neuralNetworkFromScratchImg,
-    link: "https://github.com/Raseraa0/NeuralNetworkFromScratch",
+    link: "https://github.com/KhileshMongse18204",
     color: "#0f766e",
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     description:
       "Développement d’un système de ray tracing. L’objectif est de simuler des objets et une caméra dans un espace 3D, puis de reconstruire de manière réaliste ce que la caméra percevrait en ajustant textures, couleurs ou motifs.",
     image_path: rayTracingImg,
-    link: "https://github.com/Raseraa0/RayTracing",
+    link: "https://github.com/KhileshMongse18204",
     color: "#6d28d9",
   },
 ];

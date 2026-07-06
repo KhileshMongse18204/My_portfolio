@@ -117,7 +117,7 @@ function About() {
               <SocialMedia
                 svgSrc={linkedinBadge}
                 num="2"
-                href="https://www.linkedin.com/in/khilesh-mongse-1040a42b5/"
+                href="https://www.linkedin.com/in/khilesh-mongse-498483420/"
                 alt={texts.hero.social.altLinkedin}
               />
             </div>
@@ -127,7 +127,7 @@ function About() {
               <SocialMedia
                 svgSrc={mailBadge}
                 num="3"
-                href="mongasekhilesh@gmail.com"
+                href="mongsekhilesh@gmail.com"
                 alt={texts.hero.social.altMail}
               />
             </div>

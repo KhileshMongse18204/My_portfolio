@@ -128,7 +128,7 @@ export default function SocialMediaBar({ speed }: Props) {
           <SocialMedia
             svgSrc={linkedinBadge}
             num="2"
-            href="https://www.linkedin.com/in/khilesh-mongse-1040a42b5/"
+            href="https://www.linkedin.com/in/khilesh-mongse-498483420/"
             alt={texts.hero.social.altLinkedin}
           />
 
@@ -136,7 +136,7 @@ export default function SocialMediaBar({ speed }: Props) {
           <SocialMedia
             svgSrc={mailBadge}
             num="3"
-            href="mailto:raserarthur71@gmail.com"
+            href="mailto:mongsekhilesh@gmail.com"
             alt={texts.hero.social.altMail}
           />
         </div>
