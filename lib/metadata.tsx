@@ -29,7 +29,7 @@ const metadataInfos: Metadata = {
     title: "Khilesh Mongse Portfolio | Software Developer",
     description:
       "Discover the portfolio of Khilesh Mongse: web apps with Next.js, AI projects using Python, low-level and SAP development, and DevOps tools.",
-    url: "https://raseraa0.github.io",
+    url: "https://khileshmongse.vercel.app/",
     siteName: "Khilesh Mongse Portfolio",
     images: [
       {
